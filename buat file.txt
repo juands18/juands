@@ -11,3 +11,8 @@ yang ingin dipelajari
 -kotlin
 -topologi jaringan
 -data mining
+
+-software code editor
+-visual code studio
+-netbeans
+-sublime
