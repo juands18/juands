@@ -12,7 +12,12 @@ yang ingin dipelajari
 -topologi jaringan
 -data mining
 
+
+software code editor
+-pycharm
+-android studio
 -software code editor
 -visual code studio
 -netbeans
 -sublime
+
